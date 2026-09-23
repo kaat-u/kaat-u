@@ -8,7 +8,7 @@ I'm a Software Development student based in Lima, Peru
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/in/katty-cai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kattycai.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kattycai.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--
 **
 Here are some ideas to get you started:
