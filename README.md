@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I am a Software Development student
+I'm a Software Development student based in Lima, Peru
 
 ## 🛠️ Tech Stack
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,postgresql,supabase,vercel,git,github" />
 
 ## 📫 Contact
 
+<a href="https://www.linkedin.com/in/katty-cai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kattycai.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <!--
 **
 Here are some ideas to get you started:
