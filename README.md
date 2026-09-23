@@ -4,6 +4,9 @@ I am a Software Development student
 
 ## 🛠️ Tech Stack
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,postgresql,supabase,vercel,git,github" />
+
+## 📫 Contact
+
 <!--
 **
 Here are some ideas to get you started:
