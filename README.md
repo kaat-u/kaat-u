@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kat 👋
 
 I'm a Software Development student based in Lima, Peru
 
