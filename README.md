@@ -3,7 +3,7 @@
 I'm a Software Development student based in Lima, Peru
 
 ## 🛠️ Tech Stack
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,postgresql,supabase,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,postgresql,python,supabase,vercel,git,github" />
 
 ## 📫 Contact
 
