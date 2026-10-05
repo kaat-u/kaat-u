@@ -1,6 +1,6 @@
 ## Hi there, I'm Kat 👋
 
-I'm a Software Development student based in Lima, Peru
+I'm a Software Development student based in Lima, Peru, looking for opportunities
 
 ## 🛠️ Tech Stack
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,postgresql,python,supabase,vercel,git,github" />
